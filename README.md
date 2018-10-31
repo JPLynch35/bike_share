@@ -24,3 +24,9 @@ Bikeshare is a web application build with Ruby, Rails and Activerecord. It’s p
 - Shoulda-matchers
 - Database_cleaner
 - Simplecov
+
+---
+
+#### Collaborators
+[Emmie Hayes](https://github.com/emmiehayes)  
+[Matt Bricker](https://github.com/brickstar)
